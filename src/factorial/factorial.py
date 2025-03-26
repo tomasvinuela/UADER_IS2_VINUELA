@@ -19,13 +19,8 @@ def factorial(num):
             fact *= num 
             num -= 1
         return fact 
-
-if (len(sys.argv) == 0 or len(sys.argv) <3):
-   print("Debe informar un set de números!")
-   sys.exit()
-else:
-    extremo1=int(sys.argv[1])
-    extremo2=int(sys.argv[2])
+    
+def factorial_rangos(extremo1, extremo2):
     if (extremo1>extremo2):
         for i in range (extremo2, (extremo1+1)):
             print("Factorial ",i,"! es ", factorial(i)) 
@@ -35,3 +30,16 @@ else:
         for i in range (extremo1, (extremo2+1)):
             print("Factorial ",i,"! es ", factorial(i)) 
 
+
+
+print("Por favor indique el rango de numeros a calcular el factorial:")
+entrada1 = input("Inferior (valdra 1 si se deja en blanco): ")
+entrada2 = input("Superior (valdra 60 si se deja en blanco): ")
+print("Ahora se calculara el factorial del rango")
+if not entrada1:
+    factorial_rangos(1, int(entrada2))
+elif not entrada2:
+    factorial_rangos(int(entrada1), 60)
+else:
+    factorial_rangos(int(entrada1), int(entrada2))
+    
