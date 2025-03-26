@@ -14,3 +14,5 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
+
+#Agrego comentarios para luego sincronizar con el repositorio, paso 3.5
