@@ -12,7 +12,6 @@
 2. lista numerada, elemento 2
 3. lista numerada, elemento 3
 # Titulo figura
-figura
-![https://fcytcdelu.uader.edu.ar/themes/fcyt/logo.png]
+![figura](https://fcytcdelu.uader.edu.ar/themes/fcyt/logo.png)
 # Titulo pagina web
-link pagina web [https://fcytcdelu.uader.edu.ar/]
+[link pagina web](https://fcytcdelu.uader.edu.ar/)
