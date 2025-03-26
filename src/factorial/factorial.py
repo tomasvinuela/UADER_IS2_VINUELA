@@ -20,13 +20,18 @@ def factorial(num):
             num -= 1
         return fact 
 
-if (len(sys.argv) == 0 or len(sys.argv) <2):
-   print("Debe informar un número!")
+if (len(sys.argv) == 0 or len(sys.argv) <3):
+   print("Debe informar un set de números!")
    sys.exit()
 else:
-    num=int(sys.argv[1])
-    #print(num)
-    #print(sys.argv)
-    #print (len(sys.argv))
-    print("Factorial ",num,"! es ", factorial(num)) 
+    extremo1=int(sys.argv[1])
+    extremo2=int(sys.argv[2])
+    if (extremo1>extremo2):
+        for i in range (extremo2, (extremo1+1)):
+            print("Factorial ",i,"! es ", factorial(i)) 
+    elif (extremo1==extremo2):
+        print("Factorial ",extremo1,"! es ", factorial(extremo1))
+    else:
+        for i in range (extremo1, (extremo2+1)):
+            print("Factorial ",i,"! es ", factorial(i)) 
 
