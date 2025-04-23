@@ -1,0 +1,208 @@
+Resultados de la primera ejecucion:
+      "comment_ratio": 0.0,
+      "cyclomatic_complexity": 6,
+      "fanout_external": 3,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.324,
+      "halstead_difficulty": 7.897,
+      "halstead_effort": 7677.468,
+      "halstead_timerequired": 426.526,
+      "halstead_volume": 972.147,
+      "lang": [
+        "Python"
+      ],
+      "loc": 33,
+      "maintainability_index": 77.203,
+      "operands_sum": 88,
+      "operands_uniq": 39,
+      "operators_sum": 88,
+      "operators_uniq": 7,
+      "pylint": 100.0,
+      "tiobe": 89.017,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 26.778,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  },
+  "overall": {
+    "comment_ratio": 0.0,
+    "cyclomatic_complexity": 6,
+    "fanout_external": 3,
+    "fanout_internal": 0,
+    "halstead_bugprop": 0.324,
+    "halstead_difficulty": 7.897,
+    "halstead_effort": 7677.468,
+    "halstead_timerequired": 426.526,
+    "halstead_volume": 972.147,
+    "loc": 33,
+    "maintainability_index": 77.203,
+    "operands_sum": 88,
+    "operands_uniq": 39,
+    "operators_sum": 88,
+    "operators_uniq": 7,
+    "pylint": 100.0,
+    "tiobe": 89.017,
+    "tiobe_compiler": 100.0,
+    "tiobe_complexity": 26.778,
+    "tiobe_coverage": 100.0,
+    "tiobe_duplication": 100.0,
+    "tiobe_fanout": 100.0,
+    "tiobe_functional": 100.0,
+    "tiobe_security": 100.0,
+    "tiobe_standard": 100.0
+  },
+  "stats": {
+    "max": {
+      "comment_ratio": 0.0,
+      "cyclomatic_complexity": 6,
+      "fanout_external": 3,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.324,
+      "halstead_difficulty": 7.897,
+      "halstead_effort": 7677.468,
+      "halstead_timerequired": 426.526,
+      "halstead_volume": 972.147,
+      "loc": 33,
+      "maintainability_index": 77.203,
+      "operands_sum": 88,
+      "operands_uniq": 39,
+      "operators_sum": 88,
+      "operators_uniq": 7,
+      "pylint": 100.0,
+      "tiobe": 89.017,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 26.778,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "mean": {
+      "comment_ratio": 0.0,
+      "cyclomatic_complexity": 6,
+      "fanout_external": 3,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.324,
+      "halstead_difficulty": 7.897,
+      "halstead_effort": 7677.468,
+      "halstead_timerequired": 426.526,
+      "halstead_volume": 972.147,
+      "loc": 33,
+      "maintainability_index": 77.203,
+      "operands_sum": 88,
+      "operands_uniq": 39,
+      "operators_sum": 88,
+      "operators_uniq": 7,
+      "pylint": 100.0,
+      "tiobe": 89.017,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 26.778,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "median": {
+      "comment_ratio": 0.0,
+      "cyclomatic_complexity": 6,
+      "fanout_external": 3,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.324,
+      "halstead_difficulty": 7.897,
+      "halstead_effort": 7677.468,
+      "halstead_timerequired": 426.526,
+      "halstead_volume": 972.147,
+      "loc": 33,
+      "maintainability_index": 77.203,
+      "operands_sum": 88,
+      "operands_uniq": 39,
+      "operators_sum": 88,
+      "operators_uniq": 7,
+      "pylint": 100.0,
+      "tiobe": 89.017,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 26.778,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    },
+    "min": {
+      "comment_ratio": 0.0,
+      "cyclomatic_complexity": 6,
+      "fanout_external": 3,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.324,
+      "halstead_difficulty": 7.897,
+      "halstead_effort": 7677.468,
+      "halstead_timerequired": 426.526,
+      "halstead_volume": 972.147,
+      "loc": 33,
+      "maintainability_index": 77.203,
+      "operands_sum": 88,
+      "operands_uniq": 39,
+      "operators_sum": 88,
+      "operators_uniq": 7,
+      "pylint": 100.0,
+      "tiobe": 89.017,
+      "tiobe_compiler": 100.0,
+      "tiobe_complexity": 26.778,
+      "tiobe_coverage": 100.0,
+      "tiobe_duplication": 100.0,
+      "tiobe_fanout": 100.0,
+      "tiobe_functional": 100.0,
+      "tiobe_security": 100.0,
+      "tiobe_standard": 100.0
+    }
+  }
+}
+
+
+El comment_ratio es igual a 0.0 ya que no hay comentarios en el codigo, por lo tanto se tomaran medidas para mejorar esto (comentar el paso a paso de que hace cada seccion de codigo)
+Los resultados de halstead son:
+    "halstead_effort": 7677.468,
+    "halstead_timerequired": 426.526
+    "halstead_bugprop": 0.324
+Se puede observar que el valor de bugprop es bajo pero no inexistente, lo cual es correlativo con los problemas que encontre al testear por primera vez el programa.
+La mayor fuente de errores fue el testeo de readline y su funcionamiento, ya que era una herramienta cuyo funcionamiento desconocia, por lo que tomo varios intentos lograr entender que necesita para hacer lo que yo deseaba.
+"cyclomatic_complexity": 6
+Aunque la complejidad es baja, creo que se podrian optimizar los try and except, principalmente eliminando el que verifica que se puede mostrar la respuesta por pantalla ya que su funcionalidad ya esta abarcada por el try except que verifica que la request pueda procesarse.
+Ademas, siento que la implementacion del historial de consultas podria optimizarse ya que, al ser la primera vez que utilizo esta herramienta, no conozco las tecnicas mas optimas de implementacion
+
+
+Resultados de la consulta a pylint:
+************* Module consigna_3
+consigna_3.py:1:15: C0303: Trailing whitespace (trailing-whitespace)
+consigna_3.py:24:0: C0301: Line too long (109/100) (line-too-long)
+consigna_3.py:25:0: C0301: Line too long (105/100) (line-too-long)
+consigna_3.py:28:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+consigna_3.py:45:0: C0301: Line too long (130/100) (line-too-long)
+consigna_3.py:48:0: C0305: Trailing newlines (trailing-newlines)
+consigna_3.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+consigna_3.py:20:0: W0702: No exception type(s) specified (bare-except)
+consigna_3.py:41:0: W0702: No exception type(s) specified (bare-except)
+consigna_3.py:30:8: C0103: Constant name "request_cliente" doesn't conform to UPPER_CASE naming style (invalid-name)
+consigna_3.py:37:8: W0702: No exception type(s) specified (bare-except)
+
+-----------------------------------
+Your code has been rated at 6.33/10
+
+Segun los resultados de pylint, la mayoria de errores detectados se refiere a los comentarios (demasiado extensos, deberian romperse en varias lineas) y en el formateo del documento (algunas variables deberian ir en mayuscula, falta indicar el tipo de excepcion)
+
+Sugerencias presentadas por chatGPT:
+- No hardcodear la API key
+- Leer la ultima linea del historial y no la primera(lo cual seria inconsecuente en el programa actual ya que el historial se borra para asi solo almacenar la prompt anterior, la cual seria la primera y la ultima linea al mismo tiempo)
+- Agregar tipos especificos de exepcion (recomendacion similar a la dada por pylint)
+- Agregar verificaciones a la API key para ver que funcione correctamente
+- Solo escribir en el historial si la consulta fue respondida correctamente.
