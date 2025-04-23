@@ -1,8 +1,22 @@
-class Machinery:
-    def __init__(self, body, ala1, ala2, turb1, turb2, tren):
-        self.body = body
-        self.ala_1 = ala1
-        self.ala_2 = ala2
-        self.turbina_1 = turb1
-        self.turbina_2 = turb2
-        self.tren_aterrisaje = tren
+from typing import NamedTuple
+class Avion_base(NamedTuple):
+    id_avion: int
+    name: str = ''
+    body: str = ''
+    wing1: str = ''
+    wing2: str = ''
+    turbine1: str = ''
+    turbine2: str = ''
+    railway: str = ''
+
+
+class Constructor_avion(object):
+    def __init__(self, id_avion):
+        self.id_avion = id_avion
+        self.name = None
+
+    def build(self):
+        return Avion_base(self.id_avion, self.name)
+
+
+avion_prueba = Constructor_avion(25)
